@@ -1,0 +1,126 @@
+{
+    "stocks": [
+    {
+        "ticker": "AAPL",
+        "results": [
+            {
+                "o": 168.465,
+                "c": 166.15,
+                "h": 171.41,
+                "l": 166.03
+            }
+        ],
+        "logo_url": "./images/apple.png"
+    },
+    {
+        "ticker": "GME",
+        "results": [
+            {
+                "o": 15.15,
+                "c": 15.38,
+                "h": 16.23,
+                "l": 14.96
+            }
+        ],
+        "logo_url": "./images/gamestop.png"
+    },
+    {
+        "ticker": "NOK",
+        "results": [
+            {
+                "o": 4.88,
+                "c": 4.84,
+                "h": 4.94,
+                "l": 4.84
+            }
+        ],
+        "logo_url": "./images/nokia.png"
+    },
+    {
+        "ticker": "TSLA",
+        "results": [
+            {
+                "o": 176.96,
+                "c": 172.77,
+                "h": 179.52,
+                "l": 170.11
+            }
+        ],
+        "logo_url": "./images/tesla.png"
+    },
+    {
+        "ticker": "META",
+        "results": [
+            {
+                "o": 483.16,
+                "c": 491.47,
+                "h": 501.95,
+                "l": 483.16
+            }
+        ],
+        "logo_url": "./images/meta.png"
+    }
+    ],
+    "stocks_pg2": [
+        {
+            "ticker": "MSFT",
+            "results": [
+                {
+                    "o": 399.46,
+                    "c": 411.15,
+                    "h": 412.41,
+                    "l": 398.89
+                }
+            ],
+            "logo_url": "./images/msft.png"
+        },
+        {
+            "ticker": "WMT",
+            "results": [
+                {
+                    "o": 57.65,
+                    "c": 59.01,
+                    "h": 60.13,
+                    "l": 56.36
+                }
+            ],
+            "logo_url": "./images/walmart.jpg"
+        },
+        {
+            "ticker": "TGT",
+            "results": [
+                {
+                    "o": 172.48,
+                    "c": 166.20,
+                    "h": 177.23,
+                    "l": 165.66
+                }
+            ],
+            "logo_url": "./images/target.png"
+        },
+        {
+            "ticker": "MCD",
+            "results": [
+                {
+                    "o": 292.96,
+                    "c": 297.48,
+                    "h": 298.31,
+                    "l": 292.96
+                }
+            ],
+            "logo_url": "./images/mcdonalds.png"
+        },
+        {
+            "ticker": "XOM",
+            "results": [
+                {
+                    "o": 103.21,
+                    "c": 100.84,
+                    "h": 107.73,
+                    "l": 99.83
+                }
+            ],
+            "logo_url": "./images/exxon.png"
+        }
+    ]   
+}
